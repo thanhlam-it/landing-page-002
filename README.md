@@ -7,35 +7,27 @@
      git clone https://github.com/<your-username>/home.git
    ```
 
-3. Change URL in [package.json](./package.json) file:
-
-   ```json
-    "homepage": "https://<your-username>.github.io/home"
-   ```
-
-   Or for deployment at custom domain, refer [create-react-app.dev](https://create-react-app.dev/docs/deployment/#step-1-add-homepage-to-packagejson)
-
-4. After editing run the following bash commands:
+3. After editing run the following bash commands:
 
    ```bash
    npm install
    npm start
    ```
 
-5. To deploy website, run:
+4. To deploy website, run:
 
    ```bash
     npm run build
     npm run deploy
    ```
 
-6. Congrats your site is up and running. To see it live, visit:
+5. Congrats your site is up and running. To see it live, visit:
 
    ```https
      https://<your-username>.github.io/home
    ```
 
-7. To change the thumbnail image:
+6. To change the thumbnail image:
 
     - Navigate to the "public" folder.  
     - There you will see "social-image.png".  
@@ -49,18 +41,4 @@ Facing issues? Feel free to contact at thanhlam090391@gmail.com.
 ## Demo
 https://htmlcodex.com/cake-shop-website-template/
 
-[![Site preview](/public/cake-shop-website-template.jpg)]
-
-=================================================================
-
-All images/photos
-
-https://unsplash.com/
-https://freepik.com/
-
-=================================================================
-
-Font icons
-
-Maicons icons =
-site: https://macodeid.com/maicons
+![Site preview](/public/cake-shop-website-template.jpg)
