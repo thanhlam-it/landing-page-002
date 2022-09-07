@@ -14,28 +14,6 @@
    npm start
    ```
 
-4. To deploy website, run:
-
-   ```bash
-    npm run build
-    npm run deploy
-   ```
-
-5. Congrats your site is up and running. To see it live, visit:
-
-   ```https
-     https://<your-username>.github.io/home
-   ```
-
-6. To change the thumbnail image:
-
-    - Navigate to the "public" folder.  
-    - There you will see "social-image.png".  
-    - Delete it.   
-    - Take a screenshot of your version and rename it "social-image.png" and place it there.  
-    
-   Next time if you make changes, repeat from step 8.
-
 Facing issues? Feel free to contact at thanhlam090391@gmail.com.
 
 ## Demo
